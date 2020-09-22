@@ -11,7 +11,6 @@ The following objectives were listed the project
 data set to establish additional value using exploratory data analysis<br>
 4.Build one or more <b>Classification models</b> to determine the player using the other columns as features<br>
 
-References to datasets given in references.txt
 
 Project Organization
 ------------

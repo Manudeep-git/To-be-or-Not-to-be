@@ -1,4 +1,4 @@
-# To Be or Not To Be
+# Shakespeare Plays - To be or Not to be
 Introduction to Data Science Second Project
 
 Classification
